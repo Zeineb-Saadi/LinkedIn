@@ -1,1 +1,1 @@
-# LinkedIn
+# LinkedIn Scraper
